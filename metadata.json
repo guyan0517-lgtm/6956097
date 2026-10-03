@@ -1,0 +1,8 @@
+{
+  "name": "四半世紀",
+  "description": "虚拟手机模拟与角色聊天互动应用",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
